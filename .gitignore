@@ -1,0 +1,19 @@
+# Datos de funcionarios — CONFIDENCIAL
+*.xlsx
+*.xlsm
+*.csv
+
+# PDFs generados
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+env/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
